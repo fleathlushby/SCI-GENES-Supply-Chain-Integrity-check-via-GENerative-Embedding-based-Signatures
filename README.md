@@ -7,7 +7,7 @@ Our IC layer segmentation approach utilizes a Swin-Transformer-based GAN archite
 ## Experimental Results
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/xxxxx/image1.png](https://github.com/fleathlushby/SCI-GENES-Supply-Chain-Integrity-check-via-GENerative-Embedding-based-Signatures/blob/main/ic_layers.png?raw=true" width="300"/>
+  <img src="https://github.com/fleathlushby/SCI-GENES-Supply-Chain-Integrity-check-via-GENerative-Embedding-based-Signatures/raw/main/ic_layers.png" width="300"/>
 </p>
 <p align="center">
   <em><b>Figure 1:</b> Cross-sectional view of an in-house designed PUF IC with seven metal layers. We utilize Focused Ion Beam (FIB) technology to investigate the different stacked metal layers. The IC is fabricated using ST Microelectronics 65nm process technology. The image clearly displays all the distinct seven layers, marked by labels M1 through M7. The polysilicon layer, along with the diffusion region, is also visible from the image, marked by labels Poly Si and Diff, respectively. The top and bottom part of the IC represent the passivation layers and silicon substrate, respectively.</em>
