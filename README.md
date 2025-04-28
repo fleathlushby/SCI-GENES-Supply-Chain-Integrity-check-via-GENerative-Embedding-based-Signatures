@@ -42,3 +42,18 @@ Our IC layer segmentation approach utilizes a Swin-Transformer-based GAN archite
 <p align="center">
   <em><b>Figure 5:</b> PCB counterfeit detection using X-Ray Microscope (XRM). The differences between XRM images of original (row 1) and duplicate (row 2) Arduino UNO PCBs.</em>
 </p>
+
+<p align="center">
+  <img src="https://github.com/fleathlushby/SCI-GENES-Supply-Chain-Integrity-check-via-GENerative-Embedding-based-Signatures/blob/main/different_fingerprints.png" width="500"/>
+</p>
+<p align="center"><em><b>Figure 6:</b> XRM images of three different classes of PCBs : (a) Arduino UNO, (b) Raspberry Pi, and (c) STM32F407G Discovery Kit. Three different boards in each class exhibit unique variation in metal and solder deposition. We consider these anomalies as the unique fingerprints for each board.</em></p>
+
+<p align="center">
+  <img src="https://github.com/fleathlushby/SCI-GENES-Supply-Chain-Integrity-check-via-GENerative-Embedding-based-Signatures/blob/main/IMG_20250327_132459.jpg" width="500"/>
+</p>
+<p align="center"><em><b>Figure 7:</b> Our in-house Focused Ion Beam (FIB) and Scanning Electron Microscope (SEM) facility.</em></p>
+
+<p align="center">
+  <img src="https://github.com/fleathlushby/SCI-GENES-Supply-Chain-Integrity-check-via-GENerative-Embedding-based-Signatures/blob/main/IMG_20250327_132520.jpg" width="500"/>
+</p>
+<p align="center"><em><b>Figure 8:</b> Our in-house X-Ray Microscope facility.</em></p>
